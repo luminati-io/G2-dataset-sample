@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 G2 software product reviews</h2>
 
-![G2 dataset header](https://github.com/luminati-io/G2-dataset-sample/blob/main/G2-datasets.PNG)
+![G2 dataset header](https://github.com/luminati-io/G2-dataset-sample/blob/main/G2-datasets.png)
 
 A G2 sofware product reviews dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
