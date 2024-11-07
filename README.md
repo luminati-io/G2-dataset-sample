@@ -42,7 +42,7 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 
 <b>[Get the full G2 dataset](https://brightdata.com/products/datasets/g2)</b>.
 
-<h2>What are the GitHub datasets use cases?</h2>
+<h2>What are the G2 datasets use cases?</h2>
 
 <h3>1. Product Analysis and Competitive Benchmarking</h3>
 Leverage the G2 dataset to evaluate competitor products, customer feedback, and overall market positioning. This analysis helps identify market gaps, refine product features, and adjust your offerings to better meet customer needs and gain a competitive edge.
