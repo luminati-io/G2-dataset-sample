@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 G2 software product reviews</h2>
 
-![G2 dataset header](https://github.com/luminati-io/G2-dataset-sample/blob/main/G2-datasets.png)
+<a href="https://brightdata.com/products/datasets/g2">
+   <img src="https://github.com/luminati-io/G2-dataset-sample/blob/main/g2-datasets.png" alt="g2 datasets" />
+</a>
 
 A G2 sofware product reviews dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -34,13 +36,17 @@ dataset which includes more than <b>580,000 records</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+Dataset delivery type options: <b>Email, API download, Webhook, g2 S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
 <b>[Get the full G2 dataset](https://brightdata.com/products/datasets/g2)</b>.
+
+<a href="https://brightdata.com/products/datasets/g2">
+   <img src="https://github.com/luminati-io/g2-dataset-sample/blob/main/dataset-promotions.png" alt="g2 datasets" />
+</a>
 
 <h2>What are the G2 datasets use cases?</h2>
 
